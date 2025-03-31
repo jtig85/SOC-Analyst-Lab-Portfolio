@@ -19,7 +19,7 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - Recognizing brute force and malware patterns
 
 ### Screenshots:
-- ![Splunk Query](images/splunk-query.png)
+- ![Splunk Query](images/Splunk_Log_Analysis_Example.png)
 - ![TryHackMe SOC Progress](images/tryhackme-socpath.png)
 
 ---
@@ -37,7 +37,7 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - HTTP GET/POST analysis
 
 ### Screenshots:
-- ![Wireshark PCAP](images/wireshark-pcap.png)
+- ![Wireshark PCAP](images/Wireshark_DNS_Tunneling_Example.png)
 
 ---
 
