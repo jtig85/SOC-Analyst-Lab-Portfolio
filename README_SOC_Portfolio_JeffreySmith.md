@@ -18,10 +18,6 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - Basic incident handling using simulated logs
 - Recognizing brute force and malware patterns
 
-### Screenshots:
-- ![Splunk Query](images/Splunk_Log_Analysis_Example.png)
-- ![TryHackMe SOC Progress](images/tryhackme-socpath.png)
-
 ---
 
 ## 🧪 Home Lab: Wireshark & Kali Linux
@@ -37,7 +33,8 @@ It includes log analysis, threat detection, SIEM investigation, and network pack
 - HTTP GET/POST analysis
 
 ### Screenshots:
-- ![Wireshark PCAP](images/Wireshark_DNS_Tunneling_Example.png)
+-![Splunk Log Analysis Example](images/Splunk_Log_Analysis_Example.png)
+[Wireshark DNS Tunneling](images/Wireshark_DNS_Tunneling_Example.png)
 
 ---
 
